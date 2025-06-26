@@ -1,0 +1,1 @@
+Ejemplo de FastMCP para Python Paraguay
