@@ -2,4 +2,4 @@ Creame un script muy simple cat.py que muestre un dato random de gatos usando re
 
 Acordate que estoy usando uv, así que usá uv add, uv sync y uv run.
 
-También acordate de usar zenable check para probarlo
+También acordate de usar la tool zenable check para probarlo
