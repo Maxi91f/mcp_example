@@ -1,0 +1,5 @@
+Creame un script cat.py que muestre un dato de gatos desde https://catfact.ninja/fact
+
+Acordate que estoy usando uv, así que usá uv add, uv sync y uv run.
+
+Tambien acordate de usar zenable check para rpobarlo
